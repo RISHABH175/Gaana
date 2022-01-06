@@ -1,0 +1,19 @@
+
+
+.home,
+.reports,
+.products {
+  display: flex;
+  height: 90vh;
+  align-items: center;
+  justify-content: center;
+  font-size: 3rem;
+}
+.page-container {
+  display: flex;
+  flex-direction: column;
+
+}
+.content-wrap {
+  flex: 1;
+}
