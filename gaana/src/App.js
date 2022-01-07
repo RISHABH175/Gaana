@@ -4,6 +4,7 @@ import Carousel from './components/Carousel';
 import Carousel1 from './components/Carousel1';
 import Carousel2 from './components/Carousel2';
 import Carousel3 from './components/Carousel3';
+import Carousel4 from './components/Carousel4';
 import Footer from './components/Footer';
 import Navbar1 from './components/Navbar1';
 import Navbar from './components/Navbar';
@@ -123,7 +124,7 @@ function App() {
       </Grid>
       <Grid container >
        <h1 style={{marginLeft:"20px"}}>Star Gallery</h1>
-          <Carousel1 />
+          <Carousel4 />
          
       
       </Grid>
